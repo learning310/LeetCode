@@ -1,0 +1,13 @@
+# 1 "b.cpp"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "b.cpp"
+# 1 "a.h" 1
+void f();
+
+int global;
+# 2 "b.cpp" 2
+
+void f(){
+
+}

@@ -1,0 +1,15 @@
+# 1 "a.cpp"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "a.cpp"
+# 1 "a.h" 1
+void f();
+
+int global;
+# 2 "a.cpp" 2
+
+int main(int argc, char const *argv[])
+{
+
+    return 0;
+}
