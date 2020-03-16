@@ -7,5 +7,6 @@ int main(int argc, char const *argv[])
     cin >> x;
     const int size = x;
     double a[size];
+    cout << sizeof(a) / sizeof(*a) << endl;
     return 0;
 }
