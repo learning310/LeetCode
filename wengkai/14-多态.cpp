@@ -55,7 +55,7 @@ int main() {
   int *r = (int *)&a1;
   int *t = (int *)&b1;
   *r = *t;
-  A *p2 = &a1; 
+  A *p2 = &a1;
   p2->f();
 
   A *aa = new A;
